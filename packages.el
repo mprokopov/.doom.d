@@ -51,3 +51,4 @@
 ;(package! builtin-package :recipe (:branch "develop"))
 (package! chruby)
 (package! groovy-mode)
+(package! wakatime-mode)
